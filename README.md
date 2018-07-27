@@ -1,10 +1,10 @@
 # Recomendaciones START SCHOOL PERÚ
 
-A continuación de presenta un informe con recomendaciones para la página web de la ONG [Start School Perú](https://startschoolsite.wordpress.com/).
+A continuación se presenta un informe con recomendaciones para la página web de la ONG [Start School Perú](https://startschoolsite.wordpress.com/).
 
 ### HEADER:
 
-* Cinco enlaces principales que permitirán **navegar** a través de ellos y encontrar más **detalle** de los temas a lo que hacen alusión.
+* Cinco enlaces principales que permitirán **navegar** a través de ellos y encontrar más **detalle** de los temas a los que hacen alusión.
 * Una barra de **buscar** la cual aparecerá al darle **click** al ícono de la lupa.
 * Logo hacia la izquierda. Se recomienda rediseño del logo.
 
@@ -21,7 +21,7 @@ A continuación de presenta un informe con recomendaciones para la página web d
 
 ### NUESTROS PRINCIPIOS
 
-* Imágenes alusivas a cada uno de los principios de la intitución.
+* Imágenes alusivas a cada uno de los principios de la institución.
 * Luego del título de cada una de ellas habrá una descripción de lo que cada principio representa para Start School.
 
 ### ARTÍCULOS DE INTERÉS - BLOG
@@ -34,14 +34,14 @@ A continuación de presenta un informe con recomendaciones para la página web d
 
 * Se plantea que en un principio el footer lleve los enlaces principales que están también en el **header** y enlaces a las principales **redes sociales** por las que Start School comparte contenido o realiza publicaciones periódicamente.
 
-### Sketch de la vista desktop 
+### Sketch de la vista desktop
 [(link de vista completa)](docs/web-sketch.md)
 
 
 ![start-school-web-2](https://user-images.githubusercontent.com/32287019/43293857-f8d84828-9101-11e8-9dd6-013ba7d86bb0.jpg)
 
 
-*Informe realizado por: [Lucero Hospina](https://startschoolsite.wordpress.com/)*
+*Informe realizado por: [Lucero Hospina](https://www.linkedin.com/in/lucerohospina/)*
 
 
 
